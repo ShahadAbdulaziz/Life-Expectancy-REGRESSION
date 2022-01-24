@@ -12,6 +12,6 @@ The Global Health Observatory (GHO) data repository under World Health Organizat
 Data source: is [here](https://www.kaggle.com/kumarajarshi/life-expectancy-who)
 
 Tools: </br>
-Libraries: Pandas
-Seaborn 
-Matplotlib.
+Libraries: Pandas </br>
+Seaborn </br>
+Matplotlib. </br>
